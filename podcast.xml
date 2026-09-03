@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>The Longevity Digest</title>
+    <link>https://longevity-digest-87r.pages.dev/</link>
+    <atom:link href="https://hirokicla250.github.io/longevity-digest-audio/podcast.xml" rel="self" type="application/rss+xml"/>
+    <language>ja</language>
+    <copyright>© 2026 本田紘基</copyright>
+    <description>論文を、専門外の人にも最後まで聴ける10分に。健康・睡眠・長寿の一次研究を、解説者と聞き手の二人が数字と限界まで読み解きます。制作は睡眠指導と健康発信を仕事にする本田紘基（医師ではありません）。音声はAI（AivisSpeech の音声モデルを使用）で、二人は架空の人格です。研究紹介であり医学的助言ではありません。</description>
+    <itunes:summary>論文を、専門外の人にも最後まで聴ける10分に。健康・睡眠・長寿の一次研究を、解説者と聞き手の二人が数字と限界まで読み解きます。制作は睡眠指導と健康発信を仕事にする本田紘基（医師ではありません）。音声はAI（AivisSpeech の音声モデルを使用）で、二人は架空の人格です。研究紹介であり医学的助言ではありません。</itunes:summary>
+    <itunes:author>本田紘基</itunes:author>
+    <itunes:owner><itunes:name>本田紘基</itunes:name><itunes:email>honda.hiroki@biohacklab.jp</itunes:email></itunes:owner>
+    <managingEditor>honda.hiroki@biohacklab.jp (本田紘基)</managingEditor>
+    <webMaster>honda.hiroki@biohacklab.jp (本田紘基)</webMaster>
+    <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+    <image><url>https://longevity-digest-87r.pages.dev/podcast-cover.jpg</url><title>The Longevity Digest</title><link>https://longevity-digest-87r.pages.dev/</link></image>
+    <itunes:category text="Health &amp; Fitness"/>
+    <itunes:category text="Science"><itunes:category text="Life Sciences"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <podcast:locked owner="honda.hiroki@biohacklab.jp">no</podcast:locked>
+    <lastBuildDate>Thu, 03 Sep 2026 15:07:17 GMT</lastBuildDate>
+    <item>
+      <title>息をゆっくりにすると心拍の揺れが上がる——223研究のメタ解析</title>
+      <itunes:title>息をゆっくりにすると心拍の揺れが上がる——223研究のメタ解析</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>息をゆっくりにすると、副交感神経は本当に動くのか。動くとして、それはどこまでの話なのか。
+・223本の研究を束ねると、意図的にゆっくり呼吸すると「心拍の揺れ」（迷走神経性の心拍変動）は上がる。呼吸中も、1回の練習の直後も、複数回の練習を重ねた後も、方向は一致していた
+・上がったのは自律神経の「指標」で、不安や病気が減ったことを直接示す結果ではない。翌2023年に別の問いを立てた400人のプラセボ対照試験では、ストレスの体感に群間差は出なかった
+・著者らは、特別な機器がいらず費用も安く、副作用は少ないと見込まれる予防・補助の手段として勧めうる、と書いている（ただし、めまいが出る人もいる）。体感の面では、どの型が効くのか、遅さそのものが効くのかは、この3本では確かめられていない
+出典: Laborde S et al. Neuroscience &amp; Biobehavioral Reviews 2022 PMID 35623448／Zaccaro A et al. Frontiers in Human Neuroscience 2018 PMID 30245619／Fincham GW et al. Scientific Reports 2023 PMID 38092805</description>
+      <itunes:summary>息をゆっくりにすると、副交感神経は本当に動くのか。動くとして、それはどこまでの話なのか。
+・223本の研究を束ねると、意図的にゆっくり呼吸すると「心拍の揺れ」（迷走神経性の心拍変動）は上がる。呼吸中も、1回の練習の直後も、複数回の練習を重ねた後も、方向は一致していた
+・上がったのは自律神経の「指標」で、不安や病気が減ったことを直接示す結果ではない。翌2023年に別の問いを立てた400人のプラセボ対照試験では、ストレスの体感に群間差は出なかった
+・著者らは、特別な機器がいらず費用も安く、副作用は少ないと見込まれる予防・補助の手段として勧めうる、と書いている（ただし、めまいが出る人もいる）。体感の面では、どの型が効くのか、遅さそのものが効くのかは、この3本では確かめられていない
+出典: Laborde S et al. Neuroscience &amp; Biobehavioral Reviews 2022 PMID 35623448／Zaccaro A et al. Frontiers in Human Neuroscience 2018 PMID 30245619／Fincham GW et al. Scientific Reports 2023 PMID 38092805</itunes:summary>
+      <content:encoded><![CDATA[<p>息をゆっくりにすると、副交感神経は本当に動くのか。動くとして、それはどこまでの話なのか。</p><p>・223本の研究を束ねると、意図的にゆっくり呼吸すると「心拍の揺れ」（迷走神経性の心拍変動）は上がる。呼吸中も、1回の練習の直後も、複数回の練習を重ねた後も、方向は一致していた</p><p>・上がったのは自律神経の「指標」で、不安や病気が減ったことを直接示す結果ではない。翌2023年に別の問いを立てた400人のプラセボ対照試験では、ストレスの体感に群間差は出なかった</p><p>・著者らは、特別な機器がいらず費用も安く、副作用は少ないと見込まれる予防・補助の手段として勧めうる、と書いている（ただし、めまいが出る人もいる）。体感の面では、どの型が効くのか、遅さそのものが効くのかは、この3本では確かめられていない</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-03-02">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Thu, 03 Sep 2026 07:10:00 GMT</pubDate>
+      <guid isPermaLink="false">deep|https://pubmed.ncbi.nlm.nih.gov/35623448/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-03-02</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-03-02.mp3" length="4072428" type="audio/mpeg"/>
+      <itunes:duration>0:08:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
+  </channel>
+</rss>
