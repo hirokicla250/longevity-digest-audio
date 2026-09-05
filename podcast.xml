@@ -19,7 +19,33 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="honda.hiroki@biohacklab.jp">no</podcast:locked>
-    <lastBuildDate>Sat, 05 Sep 2026 12:04:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 23:05:37 GMT</lastBuildDate>
+    <item>
+      <title>夕食を早めるだけで眠る時刻は前に動くのか</title>
+      <itunes:title>夕食を早めるだけで眠る時刻は前に動くのか</itunes:title>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>早く寝ようと思うほど目が冴えてしまう夜がある。眠る時刻を前に動かしたいとき、寝る努力ではなく、夕食の時刻のほうを動かすという手はあるのか。
+・就寝時刻が習慣的に遅い健康な成人15人を対象に、早い時間帯に食事をとる群と、睡眠と栄養についての一般的な生活指導を受ける群を2週間比較したパイロット試験です。客観的な測定で入眠時刻が66.5分、起床時刻が39.3分、指導群より早まりました。
+・起床時刻や睡眠の中間点も同様の前進が見られましたが、総睡眠時間そのものはeTRE群でわずかに増える程度で、統計的に有意な差ではありませんでした。入眠時刻の信頼区間は20.5分から91.7分と幅が広く、効果の大きさにはばらつきがあります。
+・対象はわずか15人で、指導も単回30分のオンラインセッションのみ、介入期間も2週間と短いパイロット試験です。この規模だけで効果が確立したとは言えません。
+出典: Blum DJ et al. Journal of Clinical Sleep Medicine 2023 PMID 37559551</description>
+      <itunes:summary>早く寝ようと思うほど目が冴えてしまう夜がある。眠る時刻を前に動かしたいとき、寝る努力ではなく、夕食の時刻のほうを動かすという手はあるのか。
+・就寝時刻が習慣的に遅い健康な成人15人を対象に、早い時間帯に食事をとる群と、睡眠と栄養についての一般的な生活指導を受ける群を2週間比較したパイロット試験です。客観的な測定で入眠時刻が66.5分、起床時刻が39.3分、指導群より早まりました。
+・起床時刻や睡眠の中間点も同様の前進が見られましたが、総睡眠時間そのものはeTRE群でわずかに増える程度で、統計的に有意な差ではありませんでした。入眠時刻の信頼区間は20.5分から91.7分と幅が広く、効果の大きさにはばらつきがあります。
+・対象はわずか15人で、指導も単回30分のオンラインセッションのみ、介入期間も2週間と短いパイロット試験です。この規模だけで効果が確立したとは言えません。
+出典: Blum DJ et al. Journal of Clinical Sleep Medicine 2023 PMID 37559551</itunes:summary>
+      <content:encoded><![CDATA[<p>早く寝ようと思うほど目が冴えてしまう夜がある。眠る時刻を前に動かしたいとき、寝る努力ではなく、夕食の時刻のほうを動かすという手はあるのか。</p><p>・就寝時刻が習慣的に遅い健康な成人15人を対象に、早い時間帯に食事をとる群と、睡眠と栄養についての一般的な生活指導を受ける群を2週間比較したパイロット試験です。客観的な測定で入眠時刻が66.5分、起床時刻が39.3分、指導群より早まりました。</p><p>・起床時刻や睡眠の中間点も同様の前進が見られましたが、総睡眠時間そのものはeTRE群でわずかに増える程度で、統計的に有意な差ではありませんでした。入眠時刻の信頼区間は20.5分から91.7分と幅が広く、効果の大きさにはばらつきがあります。</p><p>・対象はわずか15人で、指導も単回30分のオンラインセッションのみ、介入期間も2週間と短いパイロット試験です。この規模だけで効果が確立したとは言えません。</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-06-01">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Sat, 05 Sep 2026 22:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/37559551/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-06-01</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-06-01.mp3" length="4987340" type="audio/mpeg"/>
+      <itunes:duration>0:10:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
     <item>
       <title>白いごはんを減らすほど体にいいと言えるのか</title>
       <itunes:title>白いごはんを減らすほど体にいいと言えるのか</itunes:title>
