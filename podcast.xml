@@ -19,7 +19,59 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="honda.hiroki@biohacklab.jp">no</podcast:locked>
-    <lastBuildDate>Sat, 05 Sep 2026 23:05:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 21:14:55 GMT</lastBuildDate>
+    <item>
+      <title>座って働く仕事かどうかで寿命は変わるのか</title>
+      <itunes:title>座って働く仕事かどうかで寿命は変わるのか</itunes:title>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>朝から晩まで座りっぱなしの仕事に就いた友人がいる。仕事で座っているかどうかは、休みの日にどれだけ動くかとは別に、体に効いてくるのか。
+・台湾の健康診断プログラム参加者48万1688人を平均12.85年追跡した前向きコホート研究です。仕事中に主に座っている人は、主に座っていない人に比べ全死因死亡が16パーセント、心血管疾患による死亡が34パーセント高いという関連が見られました。
+・座位と非座位を交互にする働き方では死亡リスクの増加は見られず、主に座って働き余暇の運動が少ない人でも、運動を1日15分から30分増やすと、主に非座位で運動をしない人と同程度まで死亡リスクが下がる関連がありました。
+・仕事中の座り方は、主に座位、座位と非座位が半々、主に非座位という3段階の自己申告による分類で、実際に座っていた分数を測ったものではありません。性別や年齢、学歴、喫煙、飲酒、体格指数で調整した観察研究であり、座り仕事を選んだ背景にある他の生活の違いまでは切り分けられていません。
+出典: Gao W et al. JAMA Network Open 2024 PMID 38241049</description>
+      <itunes:summary>朝から晩まで座りっぱなしの仕事に就いた友人がいる。仕事で座っているかどうかは、休みの日にどれだけ動くかとは別に、体に効いてくるのか。
+・台湾の健康診断プログラム参加者48万1688人を平均12.85年追跡した前向きコホート研究です。仕事中に主に座っている人は、主に座っていない人に比べ全死因死亡が16パーセント、心血管疾患による死亡が34パーセント高いという関連が見られました。
+・座位と非座位を交互にする働き方では死亡リスクの増加は見られず、主に座って働き余暇の運動が少ない人でも、運動を1日15分から30分増やすと、主に非座位で運動をしない人と同程度まで死亡リスクが下がる関連がありました。
+・仕事中の座り方は、主に座位、座位と非座位が半々、主に非座位という3段階の自己申告による分類で、実際に座っていた分数を測ったものではありません。性別や年齢、学歴、喫煙、飲酒、体格指数で調整した観察研究であり、座り仕事を選んだ背景にある他の生活の違いまでは切り分けられていません。
+出典: Gao W et al. JAMA Network Open 2024 PMID 38241049</itunes:summary>
+      <content:encoded><![CDATA[<p>朝から晩まで座りっぱなしの仕事に就いた友人がいる。仕事で座っているかどうかは、休みの日にどれだけ動くかとは別に、体に効いてくるのか。</p><p>・台湾の健康診断プログラム参加者48万1688人を平均12.85年追跡した前向きコホート研究です。仕事中に主に座っている人は、主に座っていない人に比べ全死因死亡が16パーセント、心血管疾患による死亡が34パーセント高いという関連が見られました。</p><p>・座位と非座位を交互にする働き方では死亡リスクの増加は見られず、主に座って働き余暇の運動が少ない人でも、運動を1日15分から30分増やすと、主に非座位で運動をしない人と同程度まで死亡リスクが下がる関連がありました。</p><p>・仕事中の座り方は、主に座位、座位と非座位が半々、主に非座位という3段階の自己申告による分類で、実際に座っていた分数を測ったものではありません。性別や年齢、学歴、喫煙、飲酒、体格指数で調整した観察研究であり、座り仕事を選んだ背景にある他の生活の違いまでは切り分けられていません。</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-06-03">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Sun, 06 Sep 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/38241049/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-06-03</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-06-03.mp3" length="5236026" type="audio/mpeg"/>
+      <itunes:duration>0:10:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
+    <item>
+      <title>腸活は菌を増やせば整うのか</title>
+      <itunes:title>腸活は菌を増やせば整うのか</itunes:title>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>コンビニの棚に腸活と書かれた商品が並んでいる。腸を整えるというのは、結局のところ菌を増やすことなのか。
+・腸内細菌のうち食物繊維などを発酵させて酪酸を作る酪酸産生菌に注目した2026年発表の総説です。新しい実験や臨床試験のデータは示されておらず、既存の研究を著者が選んで整理し直した論文で、腸の健全性や免疫の調整との関わりを扱っています。
+・総説は、欧米型の食事パターンや食品添加物、抗生物質の使用が酪酸産生菌の減少と関連し、その減少が炎症性腸疾患や肥満、2型糖尿病など幅広い慢性疾患と関連づけられていると整理しています。ただし具体的な数値による結果は示されていません。
+・総説であるため、引用されている個々の研究の多くはヒトでの介入試験ではなく動物実験や観察研究にとどまり、どの研究を選ぶかで結論が偏る余地が残ります。酪酸を増やせば病気を防げるという因果関係が確かめられたわけではありません。
+出典: Snodgrass JL et al. International Journal of Molecular Sciences 2026 PMID 41683715</description>
+      <itunes:summary>コンビニの棚に腸活と書かれた商品が並んでいる。腸を整えるというのは、結局のところ菌を増やすことなのか。
+・腸内細菌のうち食物繊維などを発酵させて酪酸を作る酪酸産生菌に注目した2026年発表の総説です。新しい実験や臨床試験のデータは示されておらず、既存の研究を著者が選んで整理し直した論文で、腸の健全性や免疫の調整との関わりを扱っています。
+・総説は、欧米型の食事パターンや食品添加物、抗生物質の使用が酪酸産生菌の減少と関連し、その減少が炎症性腸疾患や肥満、2型糖尿病など幅広い慢性疾患と関連づけられていると整理しています。ただし具体的な数値による結果は示されていません。
+・総説であるため、引用されている個々の研究の多くはヒトでの介入試験ではなく動物実験や観察研究にとどまり、どの研究を選ぶかで結論が偏る余地が残ります。酪酸を増やせば病気を防げるという因果関係が確かめられたわけではありません。
+出典: Snodgrass JL et al. International Journal of Molecular Sciences 2026 PMID 41683715</itunes:summary>
+      <content:encoded><![CDATA[<p>コンビニの棚に腸活と書かれた商品が並んでいる。腸を整えるというのは、結局のところ菌を増やすことなのか。</p><p>・腸内細菌のうち食物繊維などを発酵させて酪酸を作る酪酸産生菌に注目した2026年発表の総説です。新しい実験や臨床試験のデータは示されておらず、既存の研究を著者が選んで整理し直した論文で、腸の健全性や免疫の調整との関わりを扱っています。</p><p>・総説は、欧米型の食事パターンや食品添加物、抗生物質の使用が酪酸産生菌の減少と関連し、その減少が炎症性腸疾患や肥満、2型糖尿病など幅広い慢性疾患と関連づけられていると整理しています。ただし具体的な数値による結果は示されていません。</p><p>・総説であるため、引用されている個々の研究の多くはヒトでの介入試験ではなく動物実験や観察研究にとどまり、どの研究を選ぶかで結論が偏る余地が残ります。酪酸を増やせば病気を防げるという因果関係が確かめられたわけではありません。</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-06-02">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Sun, 06 Sep 2026 03:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/41683715/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-06-02</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-06-02.mp3" length="5391925" type="audio/mpeg"/>
+      <itunes:duration>0:11:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
     <item>
       <title>夕食を早めるだけで眠る時刻は前に動くのか</title>
       <itunes:title>夕食を早めるだけで眠る時刻は前に動くのか</itunes:title>
