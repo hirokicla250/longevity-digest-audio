@@ -19,7 +19,85 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="honda.hiroki@biohacklab.jp">no</podcast:locked>
-    <lastBuildDate>Sun, 06 Sep 2026 21:44:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 21:12:04 GMT</lastBuildDate>
+    <item>
+      <title>筋トレは体を大きくするためだけのものなのか</title>
+      <itunes:title>筋トレは体を大きくするためだけのものなのか</itunes:title>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>筋トレは体を大きくするため、格好よくなるためのもの。ずっとそう思ってきたけれど、それだけのものなのか。
+・16件の前向きコホート研究を統合したメタ解析で、筋力トレーニングをしていた人は、していなかった人に比べ、全死因死亡やがん全体、糖尿病などのリスクが10パーセントから17パーセント低いことと関連していました。
+・リスクの低下が最大になるのはおおむね週30分から60分の範囲で、それより多い量での上乗せの効果ははっきりしていません。糖尿病については週60分までの範囲でリスク低下が大きくなる、また違った形の関連が見られました。
+・元になった16件は、参加者を無作為に振り分けた実験ではなく前向きコホート研究で、活動量の多くは自己申告によるものです。もともと体力や健康状態が良かった人が対象に多く含まれている可能性が残り、因果関係とまでは言えません。
+出典: Momma H et al. British Journal of Sports Medicine 2022 PMID 35228201</description>
+      <itunes:summary>筋トレは体を大きくするため、格好よくなるためのもの。ずっとそう思ってきたけれど、それだけのものなのか。
+・16件の前向きコホート研究を統合したメタ解析で、筋力トレーニングをしていた人は、していなかった人に比べ、全死因死亡やがん全体、糖尿病などのリスクが10パーセントから17パーセント低いことと関連していました。
+・リスクの低下が最大になるのはおおむね週30分から60分の範囲で、それより多い量での上乗せの効果ははっきりしていません。糖尿病については週60分までの範囲でリスク低下が大きくなる、また違った形の関連が見られました。
+・元になった16件は、参加者を無作為に振り分けた実験ではなく前向きコホート研究で、活動量の多くは自己申告によるものです。もともと体力や健康状態が良かった人が対象に多く含まれている可能性が残り、因果関係とまでは言えません。
+出典: Momma H et al. British Journal of Sports Medicine 2022 PMID 35228201</itunes:summary>
+      <content:encoded><![CDATA[<p>筋トレは体を大きくするため、格好よくなるためのもの。ずっとそう思ってきたけれど、それだけのものなのか。</p><p>・16件の前向きコホート研究を統合したメタ解析で、筋力トレーニングをしていた人は、していなかった人に比べ、全死因死亡やがん全体、糖尿病などのリスクが10パーセントから17パーセント低いことと関連していました。</p><p>・リスクの低下が最大になるのはおおむね週30分から60分の範囲で、それより多い量での上乗せの効果ははっきりしていません。糖尿病については週60分までの範囲でリスク低下が大きくなる、また違った形の関連が見られました。</p><p>・元になった16件は、参加者を無作為に振り分けた実験ではなく前向きコホート研究で、活動量の多くは自己申告によるものです。もともと体力や健康状態が良かった人が対象に多く含まれている可能性が残り、因果関係とまでは言えません。</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-06-06">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Mon, 07 Sep 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/35228201/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-06-06</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-06-06.mp3" length="4752029" type="audio/mpeg"/>
+      <itunes:duration>0:09:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
+    <item>
+      <title>脂質を減らせば体にいいという考えは正しいのか</title>
+      <itunes:title>脂質を減らせば体にいいという考えは正しいのか</itunes:title>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>油を減らしましょうという助言を守って、そのぶんご飯を多めに食べている。脂質を減らせば体にいい、という考え方は正しいのか。
+・5大陸18か国の35歳から70歳、13万5335人を追跡期間中央値7.4年で追跡した研究です。炭水化物の摂取が最も多い群は最も少ない群に比べ、総死亡のハザード比が1.28で、脂質の摂取が多い群ほど総死亡のハザード比は低くなっていました。
+・この関連は総死亡だけに見られたもので、心血管疾患そのものや心筋梗塞、心血管による死亡とは、炭水化物も脂質も有意な関連は見られていません。飽和脂肪酸の摂取が多い群では脳卒中のリスクがわずかに低いという関連もありました。
+・対象には主食に頼らざるを得ない低所得国や中所得国の集団が多く含まれ、炭水化物の摂取比率の高さは、肉や魚、油を十分にとれない経済的な事情を映している可能性があります。食事量は自己申告の調査票によるもので、観察研究のため因果関係は確かめられていません。
+出典: Dehghan M et al. Lancet 2017 PMID 28864332</description>
+      <itunes:summary>油を減らしましょうという助言を守って、そのぶんご飯を多めに食べている。脂質を減らせば体にいい、という考え方は正しいのか。
+・5大陸18か国の35歳から70歳、13万5335人を追跡期間中央値7.4年で追跡した研究です。炭水化物の摂取が最も多い群は最も少ない群に比べ、総死亡のハザード比が1.28で、脂質の摂取が多い群ほど総死亡のハザード比は低くなっていました。
+・この関連は総死亡だけに見られたもので、心血管疾患そのものや心筋梗塞、心血管による死亡とは、炭水化物も脂質も有意な関連は見られていません。飽和脂肪酸の摂取が多い群では脳卒中のリスクがわずかに低いという関連もありました。
+・対象には主食に頼らざるを得ない低所得国や中所得国の集団が多く含まれ、炭水化物の摂取比率の高さは、肉や魚、油を十分にとれない経済的な事情を映している可能性があります。食事量は自己申告の調査票によるもので、観察研究のため因果関係は確かめられていません。
+出典: Dehghan M et al. Lancet 2017 PMID 28864332</itunes:summary>
+      <content:encoded><![CDATA[<p>油を減らしましょうという助言を守って、そのぶんご飯を多めに食べている。脂質を減らせば体にいい、という考え方は正しいのか。</p><p>・5大陸18か国の35歳から70歳、13万5335人を追跡期間中央値7.4年で追跡した研究です。炭水化物の摂取が最も多い群は最も少ない群に比べ、総死亡のハザード比が1.28で、脂質の摂取が多い群ほど総死亡のハザード比は低くなっていました。</p><p>・この関連は総死亡だけに見られたもので、心血管疾患そのものや心筋梗塞、心血管による死亡とは、炭水化物も脂質も有意な関連は見られていません。飽和脂肪酸の摂取が多い群では脳卒中のリスクがわずかに低いという関連もありました。</p><p>・対象には主食に頼らざるを得ない低所得国や中所得国の集団が多く含まれ、炭水化物の摂取比率の高さは、肉や魚、油を十分にとれない経済的な事情を映している可能性があります。食事量は自己申告の調査票によるもので、観察研究のため因果関係は確かめられていません。</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-06-05">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Mon, 07 Sep 2026 03:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/28864332/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-06-05</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-06-05.mp3" length="5003850" type="audio/mpeg"/>
+      <itunes:duration>0:10:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
+    <item>
+      <title>地中海食は昔からの伝統と言えるのか</title>
+      <itunes:title>地中海食は昔からの伝統と言えるのか</itunes:title>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>スーパーの棚に地中海食をうたった商品が並んでいる。あの呼び名は、そもそも誰がいつ言い出したものなのか。
+・7か国15集団、健康とされた40歳から59歳の男性1万1579人を15年追跡した研究です。飽和脂肪酸の摂取比率が高い集団ほど死亡率が高く、一価不飽和脂肪酸の比率が高い集団ほど死亡率が低いという、集団どうしの関連が見られました。
+・一価不飽和脂肪酸と飽和脂肪酸の比率に、年齢、血圧、血清コレステロール、喫煙習慣を合わせた変数で見ると、集団間の冠動脈疾患による死亡率の差の96パーセントを説明できたとされていますが、これは集団の平均値どうしを比べた結果です。
+・対象は全員男性で女性は含まれておらず、対象となった7か国の選び方そのものにも後年批判があります。集団の平均値を比べた研究であり、著者ら自身も要約の最後で因果関係を主張するものではないと明記しています。
+出典: Keys A et al. American Journal of Epidemiology 1986 PMID 3776973</description>
+      <itunes:summary>スーパーの棚に地中海食をうたった商品が並んでいる。あの呼び名は、そもそも誰がいつ言い出したものなのか。
+・7か国15集団、健康とされた40歳から59歳の男性1万1579人を15年追跡した研究です。飽和脂肪酸の摂取比率が高い集団ほど死亡率が高く、一価不飽和脂肪酸の比率が高い集団ほど死亡率が低いという、集団どうしの関連が見られました。
+・一価不飽和脂肪酸と飽和脂肪酸の比率に、年齢、血圧、血清コレステロール、喫煙習慣を合わせた変数で見ると、集団間の冠動脈疾患による死亡率の差の96パーセントを説明できたとされていますが、これは集団の平均値どうしを比べた結果です。
+・対象は全員男性で女性は含まれておらず、対象となった7か国の選び方そのものにも後年批判があります。集団の平均値を比べた研究であり、著者ら自身も要約の最後で因果関係を主張するものではないと明記しています。
+出典: Keys A et al. American Journal of Epidemiology 1986 PMID 3776973</itunes:summary>
+      <content:encoded><![CDATA[<p>スーパーの棚に地中海食をうたった商品が並んでいる。あの呼び名は、そもそも誰がいつ言い出したものなのか。</p><p>・7か国15集団、健康とされた40歳から59歳の男性1万1579人を15年追跡した研究です。飽和脂肪酸の摂取比率が高い集団ほど死亡率が高く、一価不飽和脂肪酸の比率が高い集団ほど死亡率が低いという、集団どうしの関連が見られました。</p><p>・一価不飽和脂肪酸と飽和脂肪酸の比率に、年齢、血圧、血清コレステロール、喫煙習慣を合わせた変数で見ると、集団間の冠動脈疾患による死亡率の差の96パーセントを説明できたとされていますが、これは集団の平均値どうしを比べた結果です。</p><p>・対象は全員男性で女性は含まれておらず、対象となった7か国の選び方そのものにも後年批判があります。集団の平均値を比べた研究であり、著者ら自身も要約の最後で因果関係を主張するものではないと明記しています。</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-06-04">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Sun, 06 Sep 2026 22:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/3776973/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-06-04</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-06-04.mp3" length="4836248" type="audio/mpeg"/>
+      <itunes:duration>0:10:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
     <item>
       <title>座って働く仕事かどうかで寿命は変わるのか</title>
       <itunes:title>座って働く仕事かどうかで寿命は変わるのか</itunes:title>
