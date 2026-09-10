@@ -19,7 +19,267 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="honda.hiroki@biohacklab.jp">no</podcast:locked>
-    <lastBuildDate>Mon, 07 Sep 2026 21:12:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 23:51:42 GMT</lastBuildDate>
+    <item>
+      <title>睡眠は記憶を守るのではなく後から救っているのかもしれない</title>
+      <itunes:title>睡眠は記憶を守るのではなく後から救っているのかもしれない</itunes:title>
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>覚えたあとに寝ると記憶が守られる、という話は、24時間たっても残っているのでしょうか。
+・56人を夜に覚える群と朝に覚える群に割り付けたところ、12時間後は夜に覚えて寝た群の成績がよく、先行研究を再現しました
+・しかし24時間後には両群が同程度になり、朝に覚えて一日起きていた群が追いついていました
+・朝に覚えた群では、その夜の深い眠りに現れるゆっくりした脳波が強い人ほど記憶の伸びが大きく、著者らは睡眠が干渉を受けたあとの記憶を救い出している可能性を挙げています
+出典: Zhang J, Whitehurst LN, Mednick SC Neurobiology of Learning and Memory 2022 PMID 35439637／Rasch B, Born J Physiological Reviews 2013 PMID 23589831／Cordi MJ, Rasch B Current Opinion in Neurobiology 2021 PMID 32711356</description>
+      <itunes:summary>覚えたあとに寝ると記憶が守られる、という話は、24時間たっても残っているのでしょうか。
+・56人を夜に覚える群と朝に覚える群に割り付けたところ、12時間後は夜に覚えて寝た群の成績がよく、先行研究を再現しました
+・しかし24時間後には両群が同程度になり、朝に覚えて一日起きていた群が追いついていました
+・朝に覚えた群では、その夜の深い眠りに現れるゆっくりした脳波が強い人ほど記憶の伸びが大きく、著者らは睡眠が干渉を受けたあとの記憶を救い出している可能性を挙げています
+出典: Zhang J, Whitehurst LN, Mednick SC Neurobiology of Learning and Memory 2022 PMID 35439637／Rasch B, Born J Physiological Reviews 2013 PMID 23589831／Cordi MJ, Rasch B Current Opinion in Neurobiology 2021 PMID 32711356</itunes:summary>
+      <content:encoded><![CDATA[<p>覚えたあとに寝ると記憶が守られる、という話は、24時間たっても残っているのでしょうか。</p><p>・56人を夜に覚える群と朝に覚える群に割り付けたところ、12時間後は夜に覚えて寝た群の成績がよく、先行研究を再現しました</p><p>・しかし24時間後には両群が同程度になり、朝に覚えて一日起きていた群が追いついていました</p><p>・朝に覚えた群では、その夜の深い眠りに現れるゆっくりした脳波が強い人ほど記憶の伸びが大きく、著者らは睡眠が干渉を受けたあとの記憶を救い出している可能性を挙げています</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-07-03">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Thu, 10 Sep 2026 22:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/35439637/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-07-03</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-07-03.mp3" length="4446501" type="audio/mpeg"/>
+      <itunes:duration>0:09:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
+    <item>
+      <title>持病が重なった人にも運動の上乗せは見えていた</title>
+      <itunes:title>持病が重なった人にも運動の上乗せは見えていた</itunes:title>
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>持病がいくつも重なった人が運動を増やしても、もう遅いのでしょうか。
+・45歳時点の見込みで、持病が二つ以上ある人のうち運動が中くらいの人は、少ない人より平均およそ3.1年長く生きる見込みでした。持病のない人での同じ計算はおよそ2.0年です
+・ただし論文は両群を直接くらべる検定をしておらず、結論は「持病があっても同様に、長い平均余命と関連していた」という書き方にとどまっています
+・平均余命の差は中から高でほぼ横ばいですが、死亡リスクのほうは中から高でもさらに下がっており、論文は用量反応的な関連と結論しています
+出典: Chudasama YV, Khunti KK, Zaccardi F, et al. BMC Medicine 2019 PMID 31186007</description>
+      <itunes:summary>持病がいくつも重なった人が運動を増やしても、もう遅いのでしょうか。
+・45歳時点の見込みで、持病が二つ以上ある人のうち運動が中くらいの人は、少ない人より平均およそ3.1年長く生きる見込みでした。持病のない人での同じ計算はおよそ2.0年です
+・ただし論文は両群を直接くらべる検定をしておらず、結論は「持病があっても同様に、長い平均余命と関連していた」という書き方にとどまっています
+・平均余命の差は中から高でほぼ横ばいですが、死亡リスクのほうは中から高でもさらに下がっており、論文は用量反応的な関連と結論しています
+出典: Chudasama YV, Khunti KK, Zaccardi F, et al. BMC Medicine 2019 PMID 31186007</itunes:summary>
+      <content:encoded><![CDATA[<p>持病がいくつも重なった人が運動を増やしても、もう遅いのでしょうか。</p><p>・45歳時点の見込みで、持病が二つ以上ある人のうち運動が中くらいの人は、少ない人より平均およそ3.1年長く生きる見込みでした。持病のない人での同じ計算はおよそ2.0年です</p><p>・ただし論文は両群を直接くらべる検定をしておらず、結論は「持病があっても同様に、長い平均余命と関連していた」という書き方にとどまっています</p><p>・平均余命の差は中から高でほぼ横ばいですが、死亡リスクのほうは中から高でもさらに下がっており、論文は用量反応的な関連と結論しています</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-07-02">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Thu, 10 Sep 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/31186007/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-07-02</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-07-02.mp3" length="5047527" type="audio/mpeg"/>
+      <itunes:duration>0:10:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
+    <item>
+      <title>昼寝が体にいいという感覚は当たっているのか</title>
+      <itunes:title>昼寝が体にいいという感覚は当たっているのか</itunes:title>
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>昼寝は体にいい、という感覚は、血圧やおなかまわりの側から見ても同じでしょうか。
+・昼寝のしやすさに関わる場所が遺伝子の上に123か所見つかり、それらは「眠りやすさ」「乱れた眠り」「早朝の目覚め」の三つのまとまりに分かれました
+・三つは行き先が違い、血圧と強く結びついたのは眠りやすさのまとまりだけで、残る二つは体重や腹囲のほうに寄っていました
+・全体をまとめた解析では、昼寝が多くなる方向の体質を持つ人ほど血圧が高いほう・腹囲が大きいほうへ寄りましたが、参加者はほとんどがヨーロッパ系で、睡眠時無呼吸との関連は捉えきれていない可能性が論文に明記されています
+出典: Dashti HS, Daghlas I, Lane JM, et al. Nature Communications 2021 PMID 33568662</description>
+      <itunes:summary>昼寝は体にいい、という感覚は、血圧やおなかまわりの側から見ても同じでしょうか。
+・昼寝のしやすさに関わる場所が遺伝子の上に123か所見つかり、それらは「眠りやすさ」「乱れた眠り」「早朝の目覚め」の三つのまとまりに分かれました
+・三つは行き先が違い、血圧と強く結びついたのは眠りやすさのまとまりだけで、残る二つは体重や腹囲のほうに寄っていました
+・全体をまとめた解析では、昼寝が多くなる方向の体質を持つ人ほど血圧が高いほう・腹囲が大きいほうへ寄りましたが、参加者はほとんどがヨーロッパ系で、睡眠時無呼吸との関連は捉えきれていない可能性が論文に明記されています
+出典: Dashti HS, Daghlas I, Lane JM, et al. Nature Communications 2021 PMID 33568662</itunes:summary>
+      <content:encoded><![CDATA[<p>昼寝は体にいい、という感覚は、血圧やおなかまわりの側から見ても同じでしょうか。</p><p>・昼寝のしやすさに関わる場所が遺伝子の上に123か所見つかり、それらは「眠りやすさ」「乱れた眠り」「早朝の目覚め」の三つのまとまりに分かれました</p><p>・三つは行き先が違い、血圧と強く結びついたのは眠りやすさのまとまりだけで、残る二つは体重や腹囲のほうに寄っていました</p><p>・全体をまとめた解析では、昼寝が多くなる方向の体質を持つ人ほど血圧が高いほう・腹囲が大きいほうへ寄りましたが、参加者はほとんどがヨーロッパ系で、睡眠時無呼吸との関連は捉えきれていない可能性が論文に明記されています</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-07-01">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Thu, 10 Sep 2026 03:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/33568662/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-07-01</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-07-01.mp3" length="5318782" type="audio/mpeg"/>
+      <itunes:duration>0:11:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
+    <item>
+      <title>食べる中身は変えずに食べ終わる時刻だけ変えた</title>
+      <itunes:title>食べる中身は変えずに食べ終わる時刻だけ変えた</itunes:title>
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>食べる中身と量を変えずに、食べ終わる時刻を早めるだけで、一日の血糖の動きは変わるのでしょうか。
+・食べる中身と量をそろえたまま、食べ終わりを午後2時に早めた4日間で、24時間の血糖の平均が4ミリグラム毎デシリットル下がり、上下の振れ幅は12ミリグラム毎デシリットル小さくなったと報告されています
+・朝の採血では良い向きの数字が並びましたが、夕方のインスリンやコレステロールは逆を向いており、一日の中で向きが割れていました
+・参加者は11人、期間は片方につき4日間と小さい研究で、著者たち自身が慎重に読むよう書いています
+出典: Jamshed H, Beyl RA, Della Manna DL, Yang ES, Ravussin E, Peterson CM Nutrients 2019 PMID 31151228</description>
+      <itunes:summary>食べる中身と量を変えずに、食べ終わる時刻を早めるだけで、一日の血糖の動きは変わるのでしょうか。
+・食べる中身と量をそろえたまま、食べ終わりを午後2時に早めた4日間で、24時間の血糖の平均が4ミリグラム毎デシリットル下がり、上下の振れ幅は12ミリグラム毎デシリットル小さくなったと報告されています
+・朝の採血では良い向きの数字が並びましたが、夕方のインスリンやコレステロールは逆を向いており、一日の中で向きが割れていました
+・参加者は11人、期間は片方につき4日間と小さい研究で、著者たち自身が慎重に読むよう書いています
+出典: Jamshed H, Beyl RA, Della Manna DL, Yang ES, Ravussin E, Peterson CM Nutrients 2019 PMID 31151228</itunes:summary>
+      <content:encoded><![CDATA[<p>食べる中身と量を変えずに、食べ終わる時刻を早めるだけで、一日の血糖の動きは変わるのでしょうか。</p><p>・食べる中身と量をそろえたまま、食べ終わりを午後2時に早めた4日間で、24時間の血糖の平均が4ミリグラム毎デシリットル下がり、上下の振れ幅は12ミリグラム毎デシリットル小さくなったと報告されています</p><p>・朝の採血では良い向きの数字が並びましたが、夕方のインスリンやコレステロールは逆を向いており、一日の中で向きが割れていました</p><p>・参加者は11人、期間は片方につき4日間と小さい研究で、著者たち自身が慎重に読むよう書いています</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-06-13">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Wed, 09 Sep 2026 22:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/31151228/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-06-13</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-06-13.mp3" length="5183572" type="audio/mpeg"/>
+      <itunes:duration>0:10:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
+    <item>
+      <title>ご飯の量が同じなら血糖の上がり方も同じなのか</title>
+      <itunes:title>ご飯の量が同じなら血糖の上がり方も同じなのか</itunes:title>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>同じ献立を同じ量だけ食べても、血糖の上がり方が人によって違うのはなぜなのか。
+・同じ料理を同じ量だけ食べても、食後の血糖の上がり方は人によってかなり違っていました
+・その違いには、その人のお腹にいる菌の顔ぶれが関わっている可能性が見えています
+・ただし対象は28人の若く健康な人で、市販の検査キットでこれが分かるという確認はされていません
+出典: Fu Y, Gou W, Zhong H, Tian Y, Zhao H, Liang X, Shuai M, Zhuo LB, Jiang Z, Tang J, Ordovas JM, Chen YM, Zheng JS EBioMedicine 2025 PMID 39647263</description>
+      <itunes:summary>同じ献立を同じ量だけ食べても、血糖の上がり方が人によって違うのはなぜなのか。
+・同じ料理を同じ量だけ食べても、食後の血糖の上がり方は人によってかなり違っていました
+・その違いには、その人のお腹にいる菌の顔ぶれが関わっている可能性が見えています
+・ただし対象は28人の若く健康な人で、市販の検査キットでこれが分かるという確認はされていません
+出典: Fu Y, Gou W, Zhong H, Tian Y, Zhao H, Liang X, Shuai M, Zhuo LB, Jiang Z, Tang J, Ordovas JM, Chen YM, Zheng JS EBioMedicine 2025 PMID 39647263</itunes:summary>
+      <content:encoded><![CDATA[<p>同じ献立を同じ量だけ食べても、血糖の上がり方が人によって違うのはなぜなのか。</p><p>・同じ料理を同じ量だけ食べても、食後の血糖の上がり方は人によってかなり違っていました</p><p>・その違いには、その人のお腹にいる菌の顔ぶれが関わっている可能性が見えています</p><p>・ただし対象は28人の若く健康な人で、市販の検査キットでこれが分かるという確認はされていません</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-06-12">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Wed, 09 Sep 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/39647263/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-06-12</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-06-12.mp3" length="5021822" type="audio/mpeg"/>
+      <itunes:duration>0:10:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
+    <item>
+      <title>コーヒーの抗酸化作用は体の中でも働くのか</title>
+      <itunes:title>コーヒーの抗酸化作用は体の中でも働くのか</itunes:title>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>コーヒーに含まれる抗酸化のはたらきを持つ成分は、実際に飲んだ人の体の中でも酸化を抑えているのか。
+・健康な160人が1日3杯か5杯のコーヒーを8週間飲み続けても、体の酸化を測る指標に差があるとは言い切れませんでした
+・血糖やインスリン、コレステロール、中性脂肪、炎症の指標、血圧もほとんど変わらず、著者らは良いほうにも悪いほうにもはっきりした影響は見つからなかったと書いています
+・腎臓のはたらきの目安になる数字は三つのグループ全部で数パーセント上がっていて、水を飲んだ人まで上がっていたことから、コーヒーが原因とは言えないと分かりました
+出典: Shaposhnikov S, Hatzold T, Yamani NE, Stavro PM, Lorenzo Y, Dusinska M, Reus A, Pasman W, Collins A European Journal of Nutrition 2018 PMID 27858150</description>
+      <itunes:summary>コーヒーに含まれる抗酸化のはたらきを持つ成分は、実際に飲んだ人の体の中でも酸化を抑えているのか。
+・健康な160人が1日3杯か5杯のコーヒーを8週間飲み続けても、体の酸化を測る指標に差があるとは言い切れませんでした
+・血糖やインスリン、コレステロール、中性脂肪、炎症の指標、血圧もほとんど変わらず、著者らは良いほうにも悪いほうにもはっきりした影響は見つからなかったと書いています
+・腎臓のはたらきの目安になる数字は三つのグループ全部で数パーセント上がっていて、水を飲んだ人まで上がっていたことから、コーヒーが原因とは言えないと分かりました
+出典: Shaposhnikov S, Hatzold T, Yamani NE, Stavro PM, Lorenzo Y, Dusinska M, Reus A, Pasman W, Collins A European Journal of Nutrition 2018 PMID 27858150</itunes:summary>
+      <content:encoded><![CDATA[<p>コーヒーに含まれる抗酸化のはたらきを持つ成分は、実際に飲んだ人の体の中でも酸化を抑えているのか。</p><p>・健康な160人が1日3杯か5杯のコーヒーを8週間飲み続けても、体の酸化を測る指標に差があるとは言い切れませんでした</p><p>・血糖やインスリン、コレステロール、中性脂肪、炎症の指標、血圧もほとんど変わらず、著者らは良いほうにも悪いほうにもはっきりした影響は見つからなかったと書いています</p><p>・腎臓のはたらきの目安になる数字は三つのグループ全部で数パーセント上がっていて、水を飲んだ人まで上がっていたことから、コーヒーが原因とは言えないと分かりました</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-06-11">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Wed, 09 Sep 2026 03:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/27858150/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-06-11</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-06-11.mp3" length="4764777" type="audio/mpeg"/>
+      <itunes:duration>0:09:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
+    <item>
+      <title>筋トレの直後にプロテインを飲む必要はあるのか</title>
+      <itunes:title>筋トレの直後にプロテインを飲む必要はあるのか</itunes:title>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>筋トレの前後すぐにタンパク質を摂ることは、筋肉を増やすための条件なのか。
+・集めた試験をそのまま足し合わせると筋肉の大きさにわずかな差が出たが、1日のタンパク質の合計などの条件をそろえると、その差は言い切れなくなった
+・筋肉の増え方といちばん強く関わっていたのは、摂った時間ではなく1日に摂ったタンパク質の合計だった
+・参加者の多くは筋トレの経験がない人で、鍛えている人を対象にした研究は4件しかなく、その先はまだ分かっていない
+出典: Schoenfeld BJ, Aragon AA, Krieger JW Journal of the International Society of Sports Nutrition 2013 PMID 24299050</description>
+      <itunes:summary>筋トレの前後すぐにタンパク質を摂ることは、筋肉を増やすための条件なのか。
+・集めた試験をそのまま足し合わせると筋肉の大きさにわずかな差が出たが、1日のタンパク質の合計などの条件をそろえると、その差は言い切れなくなった
+・筋肉の増え方といちばん強く関わっていたのは、摂った時間ではなく1日に摂ったタンパク質の合計だった
+・参加者の多くは筋トレの経験がない人で、鍛えている人を対象にした研究は4件しかなく、その先はまだ分かっていない
+出典: Schoenfeld BJ, Aragon AA, Krieger JW Journal of the International Society of Sports Nutrition 2013 PMID 24299050</itunes:summary>
+      <content:encoded><![CDATA[<p>筋トレの前後すぐにタンパク質を摂ることは、筋肉を増やすための条件なのか。</p><p>・集めた試験をそのまま足し合わせると筋肉の大きさにわずかな差が出たが、1日のタンパク質の合計などの条件をそろえると、その差は言い切れなくなった</p><p>・筋肉の増え方といちばん強く関わっていたのは、摂った時間ではなく1日に摂ったタンパク質の合計だった</p><p>・参加者の多くは筋トレの経験がない人で、鍛えている人を対象にした研究は4件しかなく、その先はまだ分かっていない</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-06-10">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Tue, 08 Sep 2026 22:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/24299050/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-06-10</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-06-10.mp3" length="4792780" type="audio/mpeg"/>
+      <itunes:duration>0:09:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
+    <item>
+      <title>寝不足だと太るという感覚は当たっているのか</title>
+      <itunes:title>寝不足だと太るという感覚は当たっているのか</itunes:title>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>平日の寝不足と週末の寝だめは、10日間のエネルギー収支と体重の増え方に差を生んだのか
+・平日5時間の人も、週末だけ好きなだけ眠った人も、毎晩9時間眠った人も、10日間の体重の増え方に差があるとは言い切れませんでした
+・寝不足のグループは1日に使うエネルギーが増えていましたが、食べる量の増え方がそれを上回りました
+・空腹の合図を出すホルモンのグレリンは、寝不足のグループではむしろ減っていました
+出典: Depner CM et al. Sleep 2021 PMID 34059916</description>
+      <itunes:summary>平日の寝不足と週末の寝だめは、10日間のエネルギー収支と体重の増え方に差を生んだのか
+・平日5時間の人も、週末だけ好きなだけ眠った人も、毎晩9時間眠った人も、10日間の体重の増え方に差があるとは言い切れませんでした
+・寝不足のグループは1日に使うエネルギーが増えていましたが、食べる量の増え方がそれを上回りました
+・空腹の合図を出すホルモンのグレリンは、寝不足のグループではむしろ減っていました
+出典: Depner CM et al. Sleep 2021 PMID 34059916</itunes:summary>
+      <content:encoded><![CDATA[<p>平日の寝不足と週末の寝だめは、10日間のエネルギー収支と体重の増え方に差を生んだのか</p><p>・平日5時間の人も、週末だけ好きなだけ眠った人も、毎晩9時間眠った人も、10日間の体重の増え方に差があるとは言い切れませんでした</p><p>・寝不足のグループは1日に使うエネルギーが増えていましたが、食べる量の増え方がそれを上回りました</p><p>・空腹の合図を出すホルモンのグレリンは、寝不足のグループではむしろ減っていました</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-06-09">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Tue, 08 Sep 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/34059916/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-06-09</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-06-09.mp3" length="4923184" type="audio/mpeg"/>
+      <itunes:duration>0:10:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
+    <item>
+      <title>電子書籍で読む夜は翌朝まで長引くのか</title>
+      <itunes:title>電子書籍で読む夜は翌朝まで長引くのか</itunes:title>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>部屋の電気を消して、手元だけ光る電子書籍リーダーで本を読む夜がある。あれは、その夜の寝つきだけの話で済むのか。
+・12人を対象に、就寝前の数時間、発光型の電子書籍リーダーで読書する条件と紙の本で読書する条件を実験室で比較したランダム化クロスオーバー実験です。電子書籍の条件では、紙の本の条件に比べ入眠までの時間が長く、翌朝の覚醒度も低くなりました。
+・電子書籍の条件では夜の眠気やメラトニンの分泌量も少なく、体内時計のタイミングが後ろにずれる結果でした。研究チームは、発光する画面を見ることが体内時計を遅らせ、メラトニンの分泌を急に抑えることを示したとまとめています。
+・対象はわずか12人で、使われた機器や画面の明るさ、読書時間は特定の一条件に固定されています。日常のスマートフォンやタブレット、ブルーライトカット機能を使った場合に同じ影響が出るかは、この実験からは言えません。
+出典: Chang AM et al. Proceedings of the National Academy of Sciences of the United States of America 2015 PMID 25535358</description>
+      <itunes:summary>部屋の電気を消して、手元だけ光る電子書籍リーダーで本を読む夜がある。あれは、その夜の寝つきだけの話で済むのか。
+・12人を対象に、就寝前の数時間、発光型の電子書籍リーダーで読書する条件と紙の本で読書する条件を実験室で比較したランダム化クロスオーバー実験です。電子書籍の条件では、紙の本の条件に比べ入眠までの時間が長く、翌朝の覚醒度も低くなりました。
+・電子書籍の条件では夜の眠気やメラトニンの分泌量も少なく、体内時計のタイミングが後ろにずれる結果でした。研究チームは、発光する画面を見ることが体内時計を遅らせ、メラトニンの分泌を急に抑えることを示したとまとめています。
+・対象はわずか12人で、使われた機器や画面の明るさ、読書時間は特定の一条件に固定されています。日常のスマートフォンやタブレット、ブルーライトカット機能を使った場合に同じ影響が出るかは、この実験からは言えません。
+出典: Chang AM et al. Proceedings of the National Academy of Sciences of the United States of America 2015 PMID 25535358</itunes:summary>
+      <content:encoded><![CDATA[<p>部屋の電気を消して、手元だけ光る電子書籍リーダーで本を読む夜がある。あれは、その夜の寝つきだけの話で済むのか。</p><p>・12人を対象に、就寝前の数時間、発光型の電子書籍リーダーで読書する条件と紙の本で読書する条件を実験室で比較したランダム化クロスオーバー実験です。電子書籍の条件では、紙の本の条件に比べ入眠までの時間が長く、翌朝の覚醒度も低くなりました。</p><p>・電子書籍の条件では夜の眠気やメラトニンの分泌量も少なく、体内時計のタイミングが後ろにずれる結果でした。研究チームは、発光する画面を見ることが体内時計を遅らせ、メラトニンの分泌を急に抑えることを示したとまとめています。</p><p>・対象はわずか12人で、使われた機器や画面の明るさ、読書時間は特定の一条件に固定されています。日常のスマートフォンやタブレット、ブルーライトカット機能を使った場合に同じ影響が出るかは、この実験からは言えません。</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-06-08">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Tue, 08 Sep 2026 03:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/25535358/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-06-08</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-06-08.mp3" length="4607207" type="audio/mpeg"/>
+      <itunes:duration>0:09:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
+    <item>
+      <title>たくさん動くほど体にいいと思ってよいのか</title>
+      <itunes:title>たくさん動くほど体にいいと思ってよいのか</itunes:title>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>真面目な人ほど、たくさん動くほど体にいいと思ってしまう。運動は、増やせば増やすほど良いものなのか。
+・66万1137人を中央値14.2年追跡したプール解析で、運動をしない人に比べ、運動指針の推奨量の1倍から2倍の運動をしていた人は死亡リスクが31パーセント低く、推奨量の10倍以上動いていた人でも増加は見られませんでした。
+・下がり方が頭打ちになるのは推奨量の3倍から5倍あたりで、それを超えて増やしても上乗せはわずかでした。推奨量に届かない量の運動でも、運動をしない人に比べ死亡リスクは20パーセント低いという関連がありました。
+・身体活動は自己申告によるもので、実験的に運動量を割り付けたものではありません。もともと健康で体を動かせる人ほど多く運動していたという説明が残り、この解析だけで運動量と寿命の因果関係を確かめることはできません。
+出典: Arem H et al. JAMA Internal Medicine 2015 PMID 25844730</description>
+      <itunes:summary>真面目な人ほど、たくさん動くほど体にいいと思ってしまう。運動は、増やせば増やすほど良いものなのか。
+・66万1137人を中央値14.2年追跡したプール解析で、運動をしない人に比べ、運動指針の推奨量の1倍から2倍の運動をしていた人は死亡リスクが31パーセント低く、推奨量の10倍以上動いていた人でも増加は見られませんでした。
+・下がり方が頭打ちになるのは推奨量の3倍から5倍あたりで、それを超えて増やしても上乗せはわずかでした。推奨量に届かない量の運動でも、運動をしない人に比べ死亡リスクは20パーセント低いという関連がありました。
+・身体活動は自己申告によるもので、実験的に運動量を割り付けたものではありません。もともと健康で体を動かせる人ほど多く運動していたという説明が残り、この解析だけで運動量と寿命の因果関係を確かめることはできません。
+出典: Arem H et al. JAMA Internal Medicine 2015 PMID 25844730</itunes:summary>
+      <content:encoded><![CDATA[<p>真面目な人ほど、たくさん動くほど体にいいと思ってしまう。運動は、増やせば増やすほど良いものなのか。</p><p>・66万1137人を中央値14.2年追跡したプール解析で、運動をしない人に比べ、運動指針の推奨量の1倍から2倍の運動をしていた人は死亡リスクが31パーセント低く、推奨量の10倍以上動いていた人でも増加は見られませんでした。</p><p>・下がり方が頭打ちになるのは推奨量の3倍から5倍あたりで、それを超えて増やしても上乗せはわずかでした。推奨量に届かない量の運動でも、運動をしない人に比べ死亡リスクは20パーセント低いという関連がありました。</p><p>・身体活動は自己申告によるもので、実験的に運動量を割り付けたものではありません。もともと健康で体を動かせる人ほど多く運動していたという説明が残り、この解析だけで運動量と寿命の因果関係を確かめることはできません。</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-06-07">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Mon, 07 Sep 2026 22:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/25844730/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-06-07</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-06-07.mp3" length="5019314" type="audio/mpeg"/>
+      <itunes:duration>0:10:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
     <item>
       <title>筋トレは体を大きくするためだけのものなのか</title>
       <itunes:title>筋トレは体を大きくするためだけのものなのか</itunes:title>
