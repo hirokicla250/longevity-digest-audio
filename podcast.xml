@@ -19,7 +19,319 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="honda.hiroki@biohacklab.jp">no</podcast:locked>
-    <lastBuildDate>Fri, 11 Sep 2026 00:29:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 05:00:47 GMT</lastBuildDate>
+    <item>
+      <title>昼寝をするなら30分でアラームをかける</title>
+      <itunes:title>昼寝をするなら30分でアラームをかける</itunes:title>
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>昼寝は体に悪いのか、それとも問題なのは1回の長さのほうなのか。
+・1回の昼寝が30分以上の人たちでは、亡くなる割合と心臓の病気と代謝の病気が多いほうに出ていた一方、30分より短い人たちでははっきりした上がりが見えていない。
+・同じ昼寝が、認知機能の低下と筋肉の減少については逆に少ないほうを向いていて、向きが体の場所で分かれている。
+・長く昼寝をしているから体に負担がかかるのか、体のどこかが弱っているから昼寝が長くなるのかは、この調べ方では分けられない。
+出典: Yang YB, Zheng YB, Sun J, et al. Sleep Med Rev 2024 PMID 39153335</description>
+      <itunes:summary>昼寝は体に悪いのか、それとも問題なのは1回の長さのほうなのか。
+・1回の昼寝が30分以上の人たちでは、亡くなる割合と心臓の病気と代謝の病気が多いほうに出ていた一方、30分より短い人たちでははっきりした上がりが見えていない。
+・同じ昼寝が、認知機能の低下と筋肉の減少については逆に少ないほうを向いていて、向きが体の場所で分かれている。
+・長く昼寝をしているから体に負担がかかるのか、体のどこかが弱っているから昼寝が長くなるのかは、この調べ方では分けられない。
+出典: Yang YB, Zheng YB, Sun J, et al. Sleep Med Rev 2024 PMID 39153335</itunes:summary>
+      <content:encoded><![CDATA[<p>昼寝は体に悪いのか、それとも問題なのは1回の長さのほうなのか。</p><p>・1回の昼寝が30分以上の人たちでは、亡くなる割合と心臓の病気と代謝の病気が多いほうに出ていた一方、30分より短い人たちでははっきりした上がりが見えていない。</p><p>・同じ昼寝が、認知機能の低下と筋肉の減少については逆に少ないほうを向いていて、向きが体の場所で分かれている。</p><p>・長く昼寝をしているから体に負担がかかるのか、体のどこかが弱っているから昼寝が長くなるのかは、この調べ方では分けられない。</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-11-07">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Mon, 14 Sep 2026 22:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/39153335/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-11-07</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-11-07.mp3" length="4853385" type="audio/mpeg"/>
+      <itunes:duration>0:10:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
+    <item>
+      <title>食べる量を減らす研究の多くは子どものネズミから始まっている</title>
+      <itunes:title>食べる量を減らす研究の多くは子どものネズミから始まっている</itunes:title>
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>食べる量を減らすと長生きするという話は、どこまでが動物で調べられたことなのか。
+・摂取カロリーを制限すると寿命が延び、機能の低下がゆるみ、加齢に伴う病気が減ったという報告は複数の生き物で積み上がってきたが、その中心は動物の研究である
+・実験用のげっ歯類の研究の多くは思春期より前から制限を始めており、大人になってから減らす人間の場面とは条件が違う
+・なぜ寿命が延びるのかというしくみは、この総説の時点では分かっていないと書かれており、著者は代謝の有害な副産物が減る説と、防御と修復のしくみが強まる説の二つを挙げている
+出典: McCarter RJ Clin Geriatr Med 1995 PMID 8556686</description>
+      <itunes:summary>食べる量を減らすと長生きするという話は、どこまでが動物で調べられたことなのか。
+・摂取カロリーを制限すると寿命が延び、機能の低下がゆるみ、加齢に伴う病気が減ったという報告は複数の生き物で積み上がってきたが、その中心は動物の研究である
+・実験用のげっ歯類の研究の多くは思春期より前から制限を始めており、大人になってから減らす人間の場面とは条件が違う
+・なぜ寿命が延びるのかというしくみは、この総説の時点では分かっていないと書かれており、著者は代謝の有害な副産物が減る説と、防御と修復のしくみが強まる説の二つを挙げている
+出典: McCarter RJ Clin Geriatr Med 1995 PMID 8556686</itunes:summary>
+      <content:encoded><![CDATA[<p>食べる量を減らすと長生きするという話は、どこまでが動物で調べられたことなのか。</p><p>・摂取カロリーを制限すると寿命が延び、機能の低下がゆるみ、加齢に伴う病気が減ったという報告は複数の生き物で積み上がってきたが、その中心は動物の研究である</p><p>・実験用のげっ歯類の研究の多くは思春期より前から制限を始めており、大人になってから減らす人間の場面とは条件が違う</p><p>・なぜ寿命が延びるのかというしくみは、この総説の時点では分かっていないと書かれており、著者は代謝の有害な副産物が減る説と、防御と修復のしくみが強まる説の二つを挙げている</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-11-06">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Mon, 14 Sep 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/8556686/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-11-06</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-11-06.mp3" length="4966443" type="audio/mpeg"/>
+      <itunes:duration>0:10:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
+    <item>
+      <title>セットを増やせば強くなるという感覚は当たっているのか</title>
+      <itunes:title>セットを増やせば強くなるという感覚は当たっているのか</itunes:title>
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>トレーニングのセット数を増やすと、筋肉の太さと挙げられる重さは同じように伸びるのか。
+・セット数の多いグループほど筋肉は厚くなったが、その差がはっきり出たのは測った四か所のうち三か所だった。
+・スクワットとベンチプレスで挙げられる重さは三つのグループとも伸びたものの、どのグループがいちばん伸びたかでは差があるとは言い切れなかった。
+・参加したのはトレーニング経験のある男性だけで、女性や初心者や高齢者に同じことが起きるかは確かめられていない。
+出典: Schoenfeld BJ, Contreras B, Krieger J, Grgic J, Delcastillo K, Belliard R, Alto A Medicine and Science in Sports and Exercise 2019 PMID 30153194</description>
+      <itunes:summary>トレーニングのセット数を増やすと、筋肉の太さと挙げられる重さは同じように伸びるのか。
+・セット数の多いグループほど筋肉は厚くなったが、その差がはっきり出たのは測った四か所のうち三か所だった。
+・スクワットとベンチプレスで挙げられる重さは三つのグループとも伸びたものの、どのグループがいちばん伸びたかでは差があるとは言い切れなかった。
+・参加したのはトレーニング経験のある男性だけで、女性や初心者や高齢者に同じことが起きるかは確かめられていない。
+出典: Schoenfeld BJ, Contreras B, Krieger J, Grgic J, Delcastillo K, Belliard R, Alto A Medicine and Science in Sports and Exercise 2019 PMID 30153194</itunes:summary>
+      <content:encoded><![CDATA[<p>トレーニングのセット数を増やすと、筋肉の太さと挙げられる重さは同じように伸びるのか。</p><p>・セット数の多いグループほど筋肉は厚くなったが、その差がはっきり出たのは測った四か所のうち三か所だった。</p><p>・スクワットとベンチプレスで挙げられる重さは三つのグループとも伸びたものの、どのグループがいちばん伸びたかでは差があるとは言い切れなかった。</p><p>・参加したのはトレーニング経験のある男性だけで、女性や初心者や高齢者に同じことが起きるかは確かめられていない。</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-11-05">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/30153194/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-11-05</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-11-05.mp3" length="4837711" type="audio/mpeg"/>
+      <itunes:duration>0:10:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
+    <item>
+      <title>心臓の病気で治療中の人にサウナを試した研究がある</title>
+      <itunes:title>心臓の病気で治療中の人にサウナを試した研究がある</itunes:title>
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>心臓の病気で治療を受けている人にサウナを試した研究は、どこまでのことを言っているのか。
+・心不全の治療を受けている人を対象にした研究を集めた結果では、胸のレントゲンに写る心臓の影の割合が縮み、心臓が出すホルモンが下がり、送り出す血の割合が上がるという変化と関連していた
+・同じ研究のなかで、上の血圧も下の血圧も、はっきりした差があるとは言えなかった
+・集められたのは遠赤外線のサウナの研究だけで、フィンランド式のサウナについては条件を満たす研究が1本もなかった
+出典: Källström M, Soveri I, Oldgren J, Laukkanen J, Ichiki T, Tei C, Timmerman M, Berglund L, Hägglund H Clinical Cardiology 2018 PMID 30239008</description>
+      <itunes:summary>心臓の病気で治療を受けている人にサウナを試した研究は、どこまでのことを言っているのか。
+・心不全の治療を受けている人を対象にした研究を集めた結果では、胸のレントゲンに写る心臓の影の割合が縮み、心臓が出すホルモンが下がり、送り出す血の割合が上がるという変化と関連していた
+・同じ研究のなかで、上の血圧も下の血圧も、はっきりした差があるとは言えなかった
+・集められたのは遠赤外線のサウナの研究だけで、フィンランド式のサウナについては条件を満たす研究が1本もなかった
+出典: Källström M, Soveri I, Oldgren J, Laukkanen J, Ichiki T, Tei C, Timmerman M, Berglund L, Hägglund H Clinical Cardiology 2018 PMID 30239008</itunes:summary>
+      <content:encoded><![CDATA[<p>心臓の病気で治療を受けている人にサウナを試した研究は、どこまでのことを言っているのか。</p><p>・心不全の治療を受けている人を対象にした研究を集めた結果では、胸のレントゲンに写る心臓の影の割合が縮み、心臓が出すホルモンが下がり、送り出す血の割合が上がるという変化と関連していた</p><p>・同じ研究のなかで、上の血圧も下の血圧も、はっきりした差があるとは言えなかった</p><p>・集められたのは遠赤外線のサウナの研究だけで、フィンランド式のサウナについては条件を満たす研究が1本もなかった</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-11-04">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Sun, 13 Sep 2026 22:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/30239008/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-11-04</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-11-04.mp3" length="5127566" type="audio/mpeg"/>
+      <itunes:duration>0:10:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
+    <item>
+      <title>家の転倒対策は分かっていて病院の中はまだ分からない</title>
+      <itunes:title>家の転倒対策は分かっていて病院の中はまだ分からない</itunes:title>
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>高齢者の転倒を防ぐやり方は、家の中と病院の中で、どこまで分かっているのか。
+・家やまちの中で転倒を防ぐのに有効だとされているのは、体を動かすこと、飲んでいる薬を見直すこと、食べ方を整えること、住まいと周りの安全を良くすることの四つだと紹介されている。
+・一方で入院中の転倒を減らす取り組みは、研究の数が多いのに結果がばらついており、この解説も二本の研究を「手がかり」と呼ぶにとどめている。
+・四つのうちどれがいちばん役に立つのかまでは分かっていないので、今夜できるのは寝室からトイレまでの一本の道から物をひとつどけるくらいの一手になる。
+出典: Bolton L Wounds : a compendium of clinical research and practice 2019 PMID 31730506</description>
+      <itunes:summary>高齢者の転倒を防ぐやり方は、家の中と病院の中で、どこまで分かっているのか。
+・家やまちの中で転倒を防ぐのに有効だとされているのは、体を動かすこと、飲んでいる薬を見直すこと、食べ方を整えること、住まいと周りの安全を良くすることの四つだと紹介されている。
+・一方で入院中の転倒を減らす取り組みは、研究の数が多いのに結果がばらついており、この解説も二本の研究を「手がかり」と呼ぶにとどめている。
+・四つのうちどれがいちばん役に立つのかまでは分かっていないので、今夜できるのは寝室からトイレまでの一本の道から物をひとつどけるくらいの一手になる。
+出典: Bolton L Wounds : a compendium of clinical research and practice 2019 PMID 31730506</itunes:summary>
+      <content:encoded><![CDATA[<p>高齢者の転倒を防ぐやり方は、家の中と病院の中で、どこまで分かっているのか。</p><p>・家やまちの中で転倒を防ぐのに有効だとされているのは、体を動かすこと、飲んでいる薬を見直すこと、食べ方を整えること、住まいと周りの安全を良くすることの四つだと紹介されている。</p><p>・一方で入院中の転倒を減らす取り組みは、研究の数が多いのに結果がばらついており、この解説も二本の研究を「手がかり」と呼ぶにとどめている。</p><p>・四つのうちどれがいちばん役に立つのかまでは分かっていないので、今夜できるのは寝室からトイレまでの一本の道から物をひとつどけるくらいの一手になる。</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-11-03">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Sun, 13 Sep 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/31730506/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-11-03</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-11-03.mp3" length="4847951" type="audio/mpeg"/>
+      <itunes:duration>0:10:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
+    <item>
+      <title>7時間から9時間は実験ではなく専門家の合意から出た目安</title>
+      <itunes:title>7時間から9時間は実験ではなく専門家の合意から出た目安</itunes:title>
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>よく耳にする7時間から9時間という睡眠時間の目安は、どうやって作られた数字なのか。
+・7時間から9時間は誰かを寝かせて測って出した数字ではなく、立場の違う18人の専門家がそれまでの研究を読んだうえで判断をそろえた目安とされている。
+・示されたのは達成すべき目標ではなく幅であり、範囲の外にいること自体が異常を意味するわけではないと、目安を作った当人たちが書いている。
+・必要な長さは年代で変わり、高齢者は上が8時間まで、中高生は大人より長めの目安が置かれている。
+出典: Hirshkowitz M, Whiton K, Albert SM, et al. Sleep Health 2015 PMID 29073412</description>
+      <itunes:summary>よく耳にする7時間から9時間という睡眠時間の目安は、どうやって作られた数字なのか。
+・7時間から9時間は誰かを寝かせて測って出した数字ではなく、立場の違う18人の専門家がそれまでの研究を読んだうえで判断をそろえた目安とされている。
+・示されたのは達成すべき目標ではなく幅であり、範囲の外にいること自体が異常を意味するわけではないと、目安を作った当人たちが書いている。
+・必要な長さは年代で変わり、高齢者は上が8時間まで、中高生は大人より長めの目安が置かれている。
+出典: Hirshkowitz M, Whiton K, Albert SM, et al. Sleep Health 2015 PMID 29073412</itunes:summary>
+      <content:encoded><![CDATA[<p>よく耳にする7時間から9時間という睡眠時間の目安は、どうやって作られた数字なのか。</p><p>・7時間から9時間は誰かを寝かせて測って出した数字ではなく、立場の違う18人の専門家がそれまでの研究を読んだうえで判断をそろえた目安とされている。</p><p>・示されたのは達成すべき目標ではなく幅であり、範囲の外にいること自体が異常を意味するわけではないと、目安を作った当人たちが書いている。</p><p>・必要な長さは年代で変わり、高齢者は上が8時間まで、中高生は大人より長めの目安が置かれている。</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-11-02">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Sun, 13 Sep 2026 03:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/29073412/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-11-02</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-11-02.mp3" length="4850041" type="audio/mpeg"/>
+      <itunes:duration>0:10:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
+    <item>
+      <title>中高生が朝起きられないのは夜ふかしのせいなのか</title>
+      <itunes:title>中高生が朝起きられないのは夜ふかしのせいなのか</itunes:title>
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>中高生が朝起きられないのは、本当に夜ふかしのせいなのだろうか。
+・思春期には体内時計と眠気のたまり方が変わり、眠くなる時刻も目覚める時刻も後ろにずれると学会は説明している
+・早い始業がその変化とぶつかると睡眠時間が削られ、学ぶ備え・体の健康・心の健康・運転の安全が損なわれると挙げられている
+・これは実験ではなく学会の意見書で、遅らせるとどれくらい良くなるかの数値は書かれていない
+出典: Watson NF, Martin JL, Wise MS, et al.; American Academy of Sleep Medicine Board of Directors J Clin Sleep Med 2017 PMID 28416043</description>
+      <itunes:summary>中高生が朝起きられないのは、本当に夜ふかしのせいなのだろうか。
+・思春期には体内時計と眠気のたまり方が変わり、眠くなる時刻も目覚める時刻も後ろにずれると学会は説明している
+・早い始業がその変化とぶつかると睡眠時間が削られ、学ぶ備え・体の健康・心の健康・運転の安全が損なわれると挙げられている
+・これは実験ではなく学会の意見書で、遅らせるとどれくらい良くなるかの数値は書かれていない
+出典: Watson NF, Martin JL, Wise MS, et al.; American Academy of Sleep Medicine Board of Directors J Clin Sleep Med 2017 PMID 28416043</itunes:summary>
+      <content:encoded><![CDATA[<p>中高生が朝起きられないのは、本当に夜ふかしのせいなのだろうか。</p><p>・思春期には体内時計と眠気のたまり方が変わり、眠くなる時刻も目覚める時刻も後ろにずれると学会は説明している</p><p>・早い始業がその変化とぶつかると睡眠時間が削られ、学ぶ備え・体の健康・心の健康・運転の安全が損なわれると挙げられている</p><p>・これは実験ではなく学会の意見書で、遅らせるとどれくらい良くなるかの数値は書かれていない</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-11-01">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Sat, 12 Sep 2026 22:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/28416043/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-11-01</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-11-01.mp3" length="4789855" type="audio/mpeg"/>
+      <itunes:duration>0:09:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
+    <item>
+      <title>食物繊維をとれば腸内細菌は誰でも変わるのか</title>
+      <itunes:title>食物繊維をとれば腸内細菌は誰でも変わるのか</itunes:title>
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>食物繊維をとれば、腸の中の菌は誰でも同じように変わるのでしょうか。
+・同じ食物繊維を同じ7日間とっても、健康な8人では菌の変化がごく小さく（しかも多いほうの用量のときだけ）、便秘の16人でははっきり大きく動いていました
+・便秘の人では、酪酸をつくる3つの属が増えた度合いと便のなかの水の量が増えた度合いがいっしょに動いていましたが、どちらが先かはこの作りでは分けられません
+・なぜ健康な人で動きが小さかったのかは論文に書かれておらず、合計24人・7日間という規模と短さも残ります
+出典: Jalanka J, Major G, Murray K, Singh G, Nowak A, Kurtz C, et al. International journal of molecular sciences 2019 PMID 30669509</description>
+      <itunes:summary>食物繊維をとれば、腸の中の菌は誰でも同じように変わるのでしょうか。
+・同じ食物繊維を同じ7日間とっても、健康な8人では菌の変化がごく小さく（しかも多いほうの用量のときだけ）、便秘の16人でははっきり大きく動いていました
+・便秘の人では、酪酸をつくる3つの属が増えた度合いと便のなかの水の量が増えた度合いがいっしょに動いていましたが、どちらが先かはこの作りでは分けられません
+・なぜ健康な人で動きが小さかったのかは論文に書かれておらず、合計24人・7日間という規模と短さも残ります
+出典: Jalanka J, Major G, Murray K, Singh G, Nowak A, Kurtz C, et al. International journal of molecular sciences 2019 PMID 30669509</itunes:summary>
+      <content:encoded><![CDATA[<p>食物繊維をとれば、腸の中の菌は誰でも同じように変わるのでしょうか。</p><p>・同じ食物繊維を同じ7日間とっても、健康な8人では菌の変化がごく小さく（しかも多いほうの用量のときだけ）、便秘の16人でははっきり大きく動いていました</p><p>・便秘の人では、酪酸をつくる3つの属が増えた度合いと便のなかの水の量が増えた度合いがいっしょに動いていましたが、どちらが先かはこの作りでは分けられません</p><p>・なぜ健康な人で動きが小さかったのかは論文に書かれておらず、合計24人・7日間という規模と短さも残ります</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-08-04">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Sat, 12 Sep 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/30669509/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-08-04</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-08-04.mp3" length="4680558" type="audio/mpeg"/>
+      <itunes:duration>0:09:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
+    <item>
+      <title>流行りの食べ方を比べても一番上は昔ながらの組み合わせだった</title>
+      <itunes:title>流行りの食べ方を比べても一番上は昔ながらの組み合わせだった</itunes:title>
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>話題の食べ方を運動と組み合わせて並べたとき、いちばん上に来るのはどれでしょうか。
+・78本のランダム化比較試験、5219人ぶんを統合して並べたところ、体重でも体格の指数でも一番上はカロリー制限に運動を足したものでした
+・順位づけされた四つはどれも運動を含む組み合わせで、体脂肪率では二番手三番手との差も誤差では説明しにくい大きさで出ています
+・除脂肪量の維持で男女の先頭が入れ替わりましたが、男性のなかでも女性のなかでも介入間にはっきりした差は出ていません
+出典: Xie Y, Gu Y, Li Z, He B, Zhang L. Nutrients 2024 PMID 39275322</description>
+      <itunes:summary>話題の食べ方を運動と組み合わせて並べたとき、いちばん上に来るのはどれでしょうか。
+・78本のランダム化比較試験、5219人ぶんを統合して並べたところ、体重でも体格の指数でも一番上はカロリー制限に運動を足したものでした
+・順位づけされた四つはどれも運動を含む組み合わせで、体脂肪率では二番手三番手との差も誤差では説明しにくい大きさで出ています
+・除脂肪量の維持で男女の先頭が入れ替わりましたが、男性のなかでも女性のなかでも介入間にはっきりした差は出ていません
+出典: Xie Y, Gu Y, Li Z, He B, Zhang L. Nutrients 2024 PMID 39275322</itunes:summary>
+      <content:encoded><![CDATA[<p>話題の食べ方を運動と組み合わせて並べたとき、いちばん上に来るのはどれでしょうか。</p><p>・78本のランダム化比較試験、5219人ぶんを統合して並べたところ、体重でも体格の指数でも一番上はカロリー制限に運動を足したものでした</p><p>・順位づけされた四つはどれも運動を含む組み合わせで、体脂肪率では二番手三番手との差も誤差では説明しにくい大きさで出ています</p><p>・除脂肪量の維持で男女の先頭が入れ替わりましたが、男性のなかでも女性のなかでも介入間にはっきりした差は出ていません</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-08-03">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Sat, 12 Sep 2026 03:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/39275322/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-08-03</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-08-03.mp3" length="5272807" type="audio/mpeg"/>
+      <itunes:duration>0:10:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
+    <item>
+      <title>ヨーグルトの研究で言い切れたのはお腹のことだった</title>
+      <itunes:title>ヨーグルトの研究で言い切れたのはお腹のことだった</itunes:title>
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>ヨーグルトは体にいいという言い方のうち、原因と結果の関係まで確かめられているのはどこまででしょうか。
+・1057件の要約から選ばれた108件を点検し、そのうち76件が発酵乳に有利な結果を報告していました
+・著者らが原因と結果の関係を認めたのは、乳糖の消化と耐性というひとつだけで、がんや糖尿病などはいずれも関連という書き方にとどまっています
+・前立腺がんについては発酵の有無に関わらず乳製品全般との関連が示されており、発酵そのものの働きとは切り分けて読む必要があります
+出典: Savaiano DA, Hutkins RW. Nutrition reviews 2021 PMID 32447398</description>
+      <itunes:summary>ヨーグルトは体にいいという言い方のうち、原因と結果の関係まで確かめられているのはどこまででしょうか。
+・1057件の要約から選ばれた108件を点検し、そのうち76件が発酵乳に有利な結果を報告していました
+・著者らが原因と結果の関係を認めたのは、乳糖の消化と耐性というひとつだけで、がんや糖尿病などはいずれも関連という書き方にとどまっています
+・前立腺がんについては発酵の有無に関わらず乳製品全般との関連が示されており、発酵そのものの働きとは切り分けて読む必要があります
+出典: Savaiano DA, Hutkins RW. Nutrition reviews 2021 PMID 32447398</itunes:summary>
+      <content:encoded><![CDATA[<p>ヨーグルトは体にいいという言い方のうち、原因と結果の関係まで確かめられているのはどこまででしょうか。</p><p>・1057件の要約から選ばれた108件を点検し、そのうち76件が発酵乳に有利な結果を報告していました</p><p>・著者らが原因と結果の関係を認めたのは、乳糖の消化と耐性というひとつだけで、がんや糖尿病などはいずれも関連という書き方にとどまっています</p><p>・前立腺がんについては発酵の有無に関わらず乳製品全般との関連が示されており、発酵そのものの働きとは切り分けて読む必要があります</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-08-02">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Fri, 11 Sep 2026 22:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/32447398/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-08-02</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-08-02.mp3" length="4870312" type="audio/mpeg"/>
+      <itunes:duration>0:10:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
+    <item>
+      <title>サウナで血圧が下がるという話はどこまで確かめられているのか</title>
+      <itunes:title>サウナで血圧が下がるという話はどこまで確かめられているのか</itunes:title>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>サウナで血圧が下がるという話は、どこまで確かめられているのでしょうか。
+・世界の16本の研究をまとめた計算では、2週間から4週間続けた後を集めた別の解析でも、上の血圧が5.26ミリメートル水銀低いという結果でした
+・6分間で歩ける距離が48.11メートル長く、心臓が一回の拍動で送り出せる血液の割合も3.27パーセント高いという結果でした
+・評価指標と著者らの結論から、参加者は心臓の働きが落ちている人が中心とみられ、健康な人に同じ数字が出るとは限りません
+出典: Li Z, Jiang W, Chen Y, Wang G, Yan F, Zeng T, et al. European journal of cardiovascular nursing 2020 PMID 32814462</description>
+      <itunes:summary>サウナで血圧が下がるという話は、どこまで確かめられているのでしょうか。
+・世界の16本の研究をまとめた計算では、2週間から4週間続けた後を集めた別の解析でも、上の血圧が5.26ミリメートル水銀低いという結果でした
+・6分間で歩ける距離が48.11メートル長く、心臓が一回の拍動で送り出せる血液の割合も3.27パーセント高いという結果でした
+・評価指標と著者らの結論から、参加者は心臓の働きが落ちている人が中心とみられ、健康な人に同じ数字が出るとは限りません
+出典: Li Z, Jiang W, Chen Y, Wang G, Yan F, Zeng T, et al. European journal of cardiovascular nursing 2020 PMID 32814462</itunes:summary>
+      <content:encoded><![CDATA[<p>サウナで血圧が下がるという話は、どこまで確かめられているのでしょうか。</p><p>・世界の16本の研究をまとめた計算では、2週間から4週間続けた後を集めた別の解析でも、上の血圧が5.26ミリメートル水銀低いという結果でした</p><p>・6分間で歩ける距離が48.11メートル長く、心臓が一回の拍動で送り出せる血液の割合も3.27パーセント高いという結果でした</p><p>・評価指標と著者らの結論から、参加者は心臓の働きが落ちている人が中心とみられ、健康な人に同じ数字が出るとは限りません</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-08-01">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Fri, 11 Sep 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/32814462/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-08-01</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-08-01.mp3" length="4636046" type="audio/mpeg"/>
+      <itunes:duration>0:09:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
+    <item>
+      <title>腸で菌が増えた人ほど不安の点数が下がっていた</title>
+      <itunes:title>腸で菌が増えた人ほど不安の点数が下がっていた</itunes:title>
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>プロバイオティクスの効き方は、飲んだかどうかよりも、腸でどれだけ増えたかで見たほうがいいのでしょうか。
+・過敏性腸症候群の患者を対象にした試験の追加解析で、便中のその菌の量が多い人ほど、不安と抑うつの点数の改善と扁桃体活動の低下が大きいという相関が見られました
+・血中では酪酸・N-アセチルトリプトファン・いくつかの脂肪酸ではっきりした群間差がつき（トリプトファンと胆汁酸は傾向どまり）、中でも酪酸の濃度が、点数の低さ・扁桃体活動の低下・便中の菌の量のいずれとも相関していました
+・ただしこの相関は菌群とプラセボ群を合わせた集団で見たもので、高い菌量はほぼ菌群にしか現れていないため、群間の差が含まれます。因果の向きは分けられません
+出典: Martin FP, Cominetti O, Berger B, et al. Gut Microbes 2024 PMID 38717445／Pinto-Sanchez MI, Hall GB, Ghajar K, et al. Gastroenterology 2017 PMID 28483500</description>
+      <itunes:summary>プロバイオティクスの効き方は、飲んだかどうかよりも、腸でどれだけ増えたかで見たほうがいいのでしょうか。
+・過敏性腸症候群の患者を対象にした試験の追加解析で、便中のその菌の量が多い人ほど、不安と抑うつの点数の改善と扁桃体活動の低下が大きいという相関が見られました
+・血中では酪酸・N-アセチルトリプトファン・いくつかの脂肪酸ではっきりした群間差がつき（トリプトファンと胆汁酸は傾向どまり）、中でも酪酸の濃度が、点数の低さ・扁桃体活動の低下・便中の菌の量のいずれとも相関していました
+・ただしこの相関は菌群とプラセボ群を合わせた集団で見たもので、高い菌量はほぼ菌群にしか現れていないため、群間の差が含まれます。因果の向きは分けられません
+出典: Martin FP, Cominetti O, Berger B, et al. Gut Microbes 2024 PMID 38717445／Pinto-Sanchez MI, Hall GB, Ghajar K, et al. Gastroenterology 2017 PMID 28483500</itunes:summary>
+      <content:encoded><![CDATA[<p>プロバイオティクスの効き方は、飲んだかどうかよりも、腸でどれだけ増えたかで見たほうがいいのでしょうか。</p><p>・過敏性腸症候群の患者を対象にした試験の追加解析で、便中のその菌の量が多い人ほど、不安と抑うつの点数の改善と扁桃体活動の低下が大きいという相関が見られました</p><p>・血中では酪酸・N-アセチルトリプトファン・いくつかの脂肪酸ではっきりした群間差がつき（トリプトファンと胆汁酸は傾向どまり）、中でも酪酸の濃度が、点数の低さ・扁桃体活動の低下・便中の菌の量のいずれとも相関していました</p><p>・ただしこの相関は菌群とプラセボ群を合わせた集団で見たもので、高い菌量はほぼ菌群にしか現れていないため、群間の差が含まれます。因果の向きは分けられません</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-07-04">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Fri, 11 Sep 2026 03:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/38717445/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-07-04</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-07-04.mp3" length="5394851" type="audio/mpeg"/>
+      <itunes:duration>0:11:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
     <item>
       <title>睡眠は記憶を守るのではなく後から救っているのかもしれない</title>
       <itunes:title>睡眠は記憶を守るのではなく後から救っているのかもしれない</itunes:title>
