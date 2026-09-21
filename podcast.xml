@@ -19,7 +19,33 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="honda.hiroki@biohacklab.jp">no</podcast:locked>
-    <lastBuildDate>Tue, 15 Sep 2026 05:00:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 01:46:28 GMT</lastBuildDate>
+    <item>
+      <title>体内時計を動かせるのは光だけなのか</title>
+      <itunes:title>体内時計を動かせるのは光だけなのか</itunes:title>
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>体内時計を後ろへずらす合図は、光のほかに夜の運動でもありうるのか。
+・ほとんど真っ暗な部屋で毎晩自転車をこいだ若い男性たちは、同じ時刻に座っていただけの人たちより、体内時計が大きく後ろへずれていた。
+・座っていただけの人たちの時計も後ろへずれていて、それは体内時計の1日が24時間より少し長いことから見込まれる分とほぼ同じだった。
+・調べたのは体力のある若い男性18人で、時計を後ろへずらす向きだけなので、早寝やふだんの寝つきについてはこの実験からは言えない。
+出典: Barger LK, Wright KP Jr, Hughes RJ, Czeisler CA Am J Physiol Regul Integr Comp Physiol 2004 PMID 15031136</description>
+      <itunes:summary>体内時計を後ろへずらす合図は、光のほかに夜の運動でもありうるのか。
+・ほとんど真っ暗な部屋で毎晩自転車をこいだ若い男性たちは、同じ時刻に座っていただけの人たちより、体内時計が大きく後ろへずれていた。
+・座っていただけの人たちの時計も後ろへずれていて、それは体内時計の1日が24時間より少し長いことから見込まれる分とほぼ同じだった。
+・調べたのは体力のある若い男性18人で、時計を後ろへずらす向きだけなので、早寝やふだんの寝つきについてはこの実験からは言えない。
+出典: Barger LK, Wright KP Jr, Hughes RJ, Czeisler CA Am J Physiol Regul Integr Comp Physiol 2004 PMID 15031136</itunes:summary>
+      <content:encoded><![CDATA[<p>体内時計を後ろへずらす合図は、光のほかに夜の運動でもありうるのか。</p><p>・ほとんど真っ暗な部屋で毎晩自転車をこいだ若い男性たちは、同じ時刻に座っていただけの人たちより、体内時計が大きく後ろへずれていた。</p><p>・座っていただけの人たちの時計も後ろへずれていて、それは体内時計の1日が24時間より少し長いことから見込まれる分とほぼ同じだった。</p><p>・調べたのは体力のある若い男性18人で、時計を後ろへずらす向きだけなので、早寝やふだんの寝つきについてはこの実験からは言えない。</p><p><a href="https://longevity-digest-87r.pages.dev/ep/2026-09-15-01">ショーノートと台本</a></p>]]></content:encoded>
+      <pubDate>Tue, 15 Sep 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">audio|https://pubmed.ncbi.nlm.nih.gov/15031136/</guid>
+      <link>https://longevity-digest-87r.pages.dev/ep/2026-09-15-01</link>
+      <enclosure url="https://hirokicla250.github.io/longevity-digest-audio/audio/2026-09-15-01.mp3" length="5367056" type="audio/mpeg"/>
+      <itunes:duration>0:11:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>本田紘基</itunes:author>
+      <itunes:image href="https://longevity-digest-87r.pages.dev/podcast-cover.jpg"/>
+      <!-- 音声モデル: AivisSpeech: 阿井田 茂／AivisSpeech: まお -->
+    </item>
     <item>
       <title>昼寝をするなら30分でアラームをかける</title>
       <itunes:title>昼寝をするなら30分でアラームをかける</itunes:title>
